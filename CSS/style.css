@@ -1,0 +1,42 @@
+
+
+ /* Mobile Responsive  */
+@media only screen and (max-width: 600px) {
+  .landing{
+    margin-top: 100px!important;
+  }
+  .firstHeading{
+    font-size: 20px;
+  }
+  .secondHeading{
+    font-size: 15px;
+  }
+
+  .firstImage{
+    height: 300px;
+    width: 200px;
+  }
+
+  .landingImage{
+    margin-top: 20px!important;
+  }
+ 
+}
+
+
+
+
+ /* Desktop Responsive  */
+@media only screen and (min-width: 600px) {
+ 
+}
+
+
+
+
+@media (min-width: 992px){
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: 2.5rem;
+}}
+
